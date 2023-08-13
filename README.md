@@ -27,7 +27,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 * This application can be used to generate a logo with shape and text based on the user's selections. This can be done in lieu of a graphic designer.
 
-* Link to repo: 
+* Link to repo: https://github.com/CandaceG00/SVG_LogoMaker
 
 ## Credits:
 
